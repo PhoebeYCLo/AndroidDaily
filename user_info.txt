@@ -1,0 +1,29 @@
+1 | phoebe lo | yukchunl@sfu.ca | aaaa
+2 | phoebe lo | yukchunl@sfu.ca | aaa
+3 | hi | hello@sfu.ca | hahaha
+4 | hi | hello@sfu.ca | 
+5 | bbb | bbbb@sfu.ca | bbbb
+6 | kkk | kkk@sfu.ca | jkjkjk
+7 | kkk | kkk@sfu.ca | jkjkjk
+8 | kkk | kkk@sfu.ca | jkjkjk
+9 | kkk | kkk@sfu.ca | jkjkjk
+10 | kkk | kkk@sfu.ca | jkjkjk
+11 | nn | nn@nn.com | nnnnn
+12 | nn | nn@nn.com | nnnnn
+13 | nn | nn@nn.com | nnnnn
+14 | nn | nn@nn.com | nnnnn
+15 | nn | nn@nn.com | nnnnn
+16 | nn | nn@nn.com | nnnnn
+17 | nn | nn@nn.com | nnnnn
+18 | nn | nn@nn.com | nnnnn
+19 | phoebe lo | yukchunl@sfu.ca | aaa
+20 |  |  | 
+21 |  |  | 
+22 |  |  | 
+23 |  |  | 
+24 |  |  | 
+25 |  |  | 
+26 |  |  | 
+27 |  |  | 
+28 |  |  | 
+29 |  |  | 
